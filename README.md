@@ -1,5 +1,6 @@
 # KerasScripts
 Some simple scripts to train a Keras model using ResNet50.
+
 Use DirectoryTrainer.py to train a model with folders of training images and validation images.
 
 Use DirectoryTester.py to test a model with a folder of unseen images.
